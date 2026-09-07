@@ -1,4 +1,4 @@
-# SecretMessanger
+# PublicMessanger
 
 An iOS messenger built on Firebase, with messages encrypted on the device before they
 ever reach the database.
