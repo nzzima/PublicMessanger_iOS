@@ -133,14 +133,5 @@ class Builder {
 
         return view
     }
-
-    static func getKeyExportView() -> UIViewController {
-        let view = KeyExportView()
-        let presenter = KeyExportViewPresenter(view: view)
-
-        view.presenter = presenter
-
-        return view
-    }
     
 }
